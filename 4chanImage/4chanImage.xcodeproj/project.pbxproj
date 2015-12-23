@@ -13,6 +13,7 @@
 		39825AE31C2AE6BD004A20F8 /* _chanImage.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 39825AE11C2AE6BD004A20F8 /* _chanImage.xcdatamodeld */; };
 		39825AE51C2AE6BD004A20F8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 39825AE41C2AE6BD004A20F8 /* Assets.xcassets */; };
 		39825AE81C2AE6BD004A20F8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39825AE61C2AE6BD004A20F8 /* LaunchScreen.storyboard */; };
+		39825AF11C2AEF20004A20F8 /* 4chan.png in Resources */ = {isa = PBXBuildFile; fileRef = 39825AF01C2AEF20004A20F8 /* 4chan.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		39825AE41C2AE6BD004A20F8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		39825AE71C2AE6BD004A20F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		39825AE91C2AE6BD004A20F8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		39825AF01C2AEF20004A20F8 /* 4chan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 4chan.png; path = images/4chan.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		39825AD91C2AE6BD004A20F8 /* 4chanImage */ = {
 			isa = PBXGroup;
 			children = (
+				39825AF01C2AEF20004A20F8 /* 4chan.png */,
 				39825ADA1C2AE6BD004A20F8 /* AppDelegate.swift */,
 				39825ADC1C2AE6BD004A20F8 /* ViewController.swift */,
 				39825ADE1C2AE6BD004A20F8 /* Main.storyboard */,
@@ -127,6 +130,7 @@
 			files = (
 				39825AE81C2AE6BD004A20F8 /* LaunchScreen.storyboard in Resources */,
 				39825AE51C2AE6BD004A20F8 /* Assets.xcassets in Resources */,
+				39825AF11C2AEF20004A20F8 /* 4chan.png in Resources */,
 				39825AE01C2AE6BD004A20F8 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
